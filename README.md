@@ -169,7 +169,7 @@ An epileptic seizure is, in Wheeler's terms, a **loss of informational complexit
 ## Related projects
 
 - [`arc-qrl-peps-solver`](https://github.com/QuantumDrizzy/arc-qrl-peps-solver) — Quantum RL agent for ARC-AGI-3
-- [`eeg-bci-pipeline`](https://github.com/QuantumDrizzy) — Motor imagery BCI: RF → CSP+SVM → EEGNet → VQC
+- [`eeg-epilepsy`](https://github.com/QuantumDrizzy) — Motor imagery BCI: RF → CSP+SVM → EEGNet → VQC
 
 ---
 
